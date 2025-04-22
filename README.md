@@ -8,6 +8,5 @@
 🎧 Exploro la creatividad tanto en el código como en el sonido  
 
 ---
-![Foto de Marti Espeleta](https://i.scdn.co/image/ab6761610000e5ebf0c3f4b4f9f3e9f0f0c3f4b4)
-![Fragmento de código en Java](https://carbon.now.sh/cli?code=public%20class%20HelloWorld%20%7B%0A%20%20%20%20public%20static%20void%20main(String%5B%5D%20args)%20%7B%0A%20%20%20%20%20%20%20%20System.out.println(%22Hello%20World!%22);%0A%20%20%20%20%7D%0A%7D)
+![Fragmento de código en Java](https://ar.images.search.yahoo.com/images/view;_ylt=AwrFEeUMtQdo17M1Z4Ot9Qt.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzZlNmYzMzFlNTFhOTI3YWZlNjUwNDQwNzUwZmE3ZmViBGdwb3MDMTEEaXQDYmluZw--?back=https%3A%2F%2Far.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dsoftware%26type%3DE210AR91215G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D11&w=1240&h=930&imgurl=quasa.io%2Fstorage%2Fimages%2Fnews%2Fgv7yMmx7TCgbzqbWlsKfeADarYNtLaptgZgu7bzz.jpg&rurl=https%3A%2F%2Fquasa.io%2Fmedia%2Fsteps-to-successful-software-development-process&size=323KB&p=software&oid=6e6f331e51a927afe650440750fa7feb&fr2=piv-web&fr=mcafee&tt=Steps+to+Successful+Software+Development+Process&b=0&ni=21&no=11&ts=&tab=organic&sigr=RLUF5xSLBQ31&sigb=nUYfxE6TYOD5&sigi=MgwN0vzTrmsd&sigt=Uky7.SSRJjEI&.crumb=ICW.kTqWBhX&fr=mcafee&fr2=piv-web&type=E210AR91215G0)
 ![Music badge](https://img.shields.io/badge/Music-Creativity-blueviolet?style=flat-square&logo=spotify)
