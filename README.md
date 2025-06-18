@@ -6,6 +6,5 @@
 🧠 En constante aprendizaje | Inglés avanzado  
 🎸 También soy músico, compositor y productor independiente  
 🎧 Exploro la creatividad tanto en el código como en el sonido  
-Me gusta la Banana
----
+
 ![Music badge](https://img.shields.io/badge/Music-Creativity-blueviolet?style=flat-square&logo=spotify)
